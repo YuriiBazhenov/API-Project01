@@ -1,0 +1,17 @@
+
+{
+    "postRequestBody": {
+    "firstName": "Jason",
+    "lastName": "Statham",
+    "email": "jasonS@gmail.com",
+    "dob": "1965-07-07"
+    
+    },
+    "putRequestBody": {
+        "firstName": "Jackie",
+        "lastName": "Chan",
+        "email": "JackieC@gmail.net",
+        "dob": "1954-12-05"
+    }
+    
+}
